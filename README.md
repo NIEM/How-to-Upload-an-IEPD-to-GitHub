@@ -16,4 +16,8 @@ Technically, an IEPD is a set of files (or artifacts) that is a combination of X
 
 For the business side, an IEPD provides a mechanism to define key documentation such as business scenarios and other aspects of the business requirements for the exchange, as well as maintain a change log, etc. In addition, reusing existing IEPDs that meet similar business requirements is encouraged—and can save time and money!
 
-NOTE: Information exchange relies on many capabilities. NIEM provides a solid starting point. You never use NIEM by itself—there are also access controls, policy automation, and other aspects of systems implementation, depending on business requirements, that may be needed to complete the information exchange.
+In an era when return on investment has never been more important to government services, NIEM enables organizations to exchange information across all levels of government in a manner that is both effective and efficient.
+
+Be sure to check out the **[NIEM Cost Model] (https://niem.gov/aboutniem/roadmap/Pages/cost-model.aspx)**, which allows users to quantify the associated costs of adopting NIEM.
+
+NOTE: Information exchange relies on many capabilities. NIEM provides a solid starting point. You never use NIEM by itself—there are also access controls, policy automation, and other aspects of systems implementation, depending on business requirements, that may be needed to complete the information exchange. This is why the **[NIEM Implementation Cookbook] (https://github.com/NIEM/Implementation-Cookbook)** was created!
